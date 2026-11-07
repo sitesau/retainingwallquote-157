@@ -1,0 +1,22 @@
+{
+  "wheel_id": 804,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-157",
+  "project": "retaining-wall-quotes-cost-guide-4b956a9ddf7fc2d73a5dc54e6eb646",
+  "parent_t1_ref": "retainingwallquote-011",
+  "node_role": "buffer",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes cost guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-quotes-cost-guide-4b956a9ddf7fc2d73a5dc54e6eb646/",
+  "tier": "T2",
+  "writeback_nonce": "3d6cbffdbf088b08",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-quotes-retainingwallquote-011/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
